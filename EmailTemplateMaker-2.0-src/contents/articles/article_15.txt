@@ -1,0 +1,10 @@
+
+<div style="padding: 1.5em 2em; margin: 1em 0em; background: [properties: card-background]; [properties: box]; border-radius: 0.5em; margin: 1em;">
+    <blockquote style="text-align: center; font-weight: lighter; font-style: italic;">
+            “To think creatively, we must be able to look afresh at what we normally take for granted”
+    </blockquote>
+    
+    <div style="text-align: center; margin: 2em 0em;">
+        [properties: button]
+    </div>
+</div>

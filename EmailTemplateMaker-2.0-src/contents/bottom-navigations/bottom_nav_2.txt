@@ -1,0 +1,19 @@
+
+<section style="background: [properties: bottom-nav-bg]; min-width: 100%; margin-top: 3em; margin-left: -0.5em; margin-right: -0.5em; overflow: hidden;">
+
+    <div style="width: 600px; max-width: 100%; margin: auto; padding: 1em;">
+        <div style="display: inline-block; width: 200px; max-width: 100%; vertical-align: central;">
+            <h3 style="color: [properties: bottom-nav-text-color]; text-align: center; text-transform: uppercase;">Company Name</h3>
+        </div>
+
+        <div style="display: inline-block; width: 350px; max-width: 100%; vertical-align: top; text-align: center; margin-top: 1.2em;">
+            <nav>
+                <a href="#" style="color: [properties: bottom-nav-text-color]; font-weight: lighter; text-decoration: none; display: inline-block; margin: 0em;">Home</a><span style="color: [properties: bottom-nav-text-color]; display: inline-block; margin: 0em 0.15em;">/</span>
+                <a href="#" style="color: [properties: bottom-nav-text-color]; font-weight: lighter; text-decoration: none; display: inline-block; margin: 0em;">Blog</a><span style="color: [properties: bottom-nav-text-color]; display: inline-block; margin: 0em 0.15em;">/</span>
+                <a href="#" style="color: [properties: bottom-nav-text-color]; font-weight: lighter; text-decoration: none; display: inline-block; margin: 0em;">Products</a><span style="color: [properties: bottom-nav-text-color]; display: inline-block; margin: 0em 0.15em;">/</span>
+                <a href="#" style="color: [properties: bottom-nav-text-color]; font-weight: lighter; text-decoration: none; display: inline-block; margin: 0em;">Services</a>
+            </nav>
+        </div>
+    </div>
+
+</section>

@@ -1,0 +1,18 @@
+
+<section style="padding: 1em; margin: 1em; background: [properties: card-background]; [properties: box]; border-radius: 0.5em;">
+    <div style="display: inline-block; width: 350px; max-width: 100%; margin-left: 1em; vertical-align: top;">
+        <h2 style="text-align: left; color: [properties: header-text-color];">Article Title</h2>
+        
+        <p style="text-align: left;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        </p>
+        
+        <div style="text-align: left; margin: 2em 0em;">
+            [properties: button]
+        </div>
+    </div>
+    
+    <div style="text-align: center; display: inline-block; width: 128px; max-width: 100%; vertical-align: top; margin: 1.5em 0em;">
+        <img alt="Thumbnail" src="assets/thumbnail_1.jpg" style="width: 128px; max-width: 100%; border-radius: 0.5em;" />
+    </div>
+</section>

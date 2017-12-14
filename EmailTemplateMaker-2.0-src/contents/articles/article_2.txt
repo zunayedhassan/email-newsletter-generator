@@ -1,0 +1,13 @@
+
+<section style="padding: 1.5em 2em; margin: 1em 0em; background: [properties: card-background]; [properties: box]; border-radius: 0.5em;">
+    <h2 style="text-align: center; color: [properties: header-text-color];">Article Title</h2>
+    
+    <p style="text-align: center;">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+    </p>
+    
+    <div style="text-align: center; margin: 2em 0em;">
+        [properties: button]
+    </div>
+</section>
+

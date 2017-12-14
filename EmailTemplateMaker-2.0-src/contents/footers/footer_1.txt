@@ -1,0 +1,9 @@
+<footer>
+    <div style="background: [properties: footer-bg]; min-width: 100%; margin-left: -0.5em; margin-right: -0.5em; overflow: hidden; padding: 0.5em; text-align: center;">
+        
+        <div style="width: 600px; max-width: 100%; margin: auto; padding: 0.25em;">
+            <span style="color: [properties: footer-text-color]; font-size: 0.8em;">Copyright &copy; <a href="#" style="text-decoration: none; color: [properties: footer-text-color];">AtelMailer</a> 2017, All rights reserved.</span>
+        </div>
+        
+    </div>
+</footer>

@@ -1,0 +1,38 @@
+
+<section style="background: [properties: card-background]; [properties: box]; border-radius: 0.5em; margin: 1em;">
+    <div style="display: inline-block; vertical-align: top; background: [properties: card-background]; border-radius: 0.5em; border-radius: 0.5em; padding: 0em; width: 180px; max-width: 100%;">
+        <div style="text-align: center; margin: 1.5em 0em;">
+            <img alt="Icon" src="assets/thumbnail_1.jpg" style="width: 80%; border-radius: 0.5em;" />
+        </div>
+        
+        <h3>Title</h3>
+        
+        <p style="padding: 0.5em;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </p>
+    </div>
+    
+    <div style="display: inline-block; vertical-align: top; background: [properties: card-background]; border-radius: 0.5em; border-radius: 0.5em; padding: 0em; width: 180px; max-width: 100%;">
+        <div style="text-align: center; margin: 1.5em 0em;">
+            <img alt="Icon" src="assets/thumbnail_1.jpg" style="width: 80%; border-radius: 0.5em;" />
+        </div>
+        
+        <h3>Title</h3>
+        
+        <p style="padding: 0.5em;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </p>
+    </div>
+    
+    <div style="display: inline-block; vertical-align: top; background: [properties: card-background]; border-radius: 0.5em; border-radius: 0.5em; padding: 0em; width: 180px; max-width: 100%;">
+        <div style="text-align: center; margin: 1.5em 0em;">
+            <img alt="Icon" src="assets/thumbnail_1.jpg" style="width: 80%; border-radius: 0.5em;" />
+        </div>
+        
+        <h3>Title</h3>
+        
+        <p style="padding: 0.5em;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </p>
+    </div>
+</section>

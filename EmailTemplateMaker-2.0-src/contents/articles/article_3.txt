@@ -1,0 +1,8 @@
+
+<section style="padding: 1.5em 2em; margin: 1em 0em; background: transparent; border-radius: 0.5em;">
+    <p style="text-align: center; font-weight: normal; font-style: italic; color: [properties: alt-text-color]">Think tank safety progressive</p>
+    
+    <h2 style="text-align: center; font-weight: bold; text-transform: uppercase; color: [properties: header-text-color];">
+            “WE’LL DO CREATIVE, YOU DO THE REST.”
+    </h2>
+</section>

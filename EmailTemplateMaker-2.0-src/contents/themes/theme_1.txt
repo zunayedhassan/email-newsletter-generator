@@ -1,0 +1,15 @@
+is-card-view~false
+font-family~'Sagoe UI', sans-serif;
+body-background~#EEEEEE
+body-text-color~#34495e
+wrapper-background~#FFFFFF
+card-background~#FFFFFF
+alt-text-color~#9b59b6
+header-text-color~#1abc9c
+bottom-nav-bg~#34495E
+bottom-nav-text-color~#ecf0f1
+footer-bg~#95a5a6
+footer-text-color~#FFFFFF
+box~box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+border-color~border: 2px solid #e3e3e3;
+button~<a href="#" style="padding: 0.5em 1em; border-radius: 2em; text-decoration: none; color: [properties: alt-text-color]; border: 2px solid [properties: alt-text-color];">Details</a>

@@ -1,0 +1,26 @@
+
+<section>
+    <div style="display: inline-block; vertical-align: top; background: [properties: card-background]; [properties: box]; border-radius: 0.5em; border-radius: 0.5em; padding: 0em; margin: 0.25em; width: 280px; max-width: 100%;">
+        <div style="text-align: center; display: inline-block; width: 100%; vertical-align: top; margin: 1.5em 0em;">
+            <img alt="Thumbnail" src="assets/thumbnail_1.jpg" style="width: 80%; border-radius: 0.5em;" />
+        </div>
+        
+        <h3 style="margin: 0em;">Title</h3>
+        
+        <p style="padding: 0em 0.5em;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        </p>
+    </div>
+    
+    <div style="display: inline-block; vertical-align: top; background: [properties: card-background]; [properties: box]; border-radius: 0.5em; border-radius: 0.5em; padding: 0em; margin: 0.25em; width: 280px; max-width: 100%;">
+        <div style="text-align: center; display: inline-block; width: 100%; vertical-align: top; margin: 1.5em 0em;">
+            <img alt="Thumbnail" src="assets/thumbnail_1.jpg" style="width: 80%; border-radius: 0.5em;" />
+        </div>
+        
+        <h3 style="margin: 0em;">Title</h3>
+        
+        <p style="padding: 0em 0.5em;">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+        </p>
+    </div>
+</section>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="EmailTemplateMaker.jnlp">
+    <information>
+        <title>EmailTemplateMaker</title>
+        <vendor>Zunayed Hassan</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="EmailTemplateMaker.jar" size="18129" download="eager"/>
+        <jar href="lib\commons-io-2.6.jar" size="214788" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="zunayedhassan.EmailTemplateMaker.EmailTemplateMakerApp" name="EmailTemplateMakerApp"/>
+</jnlp>
+

@@ -1,0 +1,24 @@
+
+<section style="background: [properties: bottom-nav-bg]; min-width: 100%; margin-top: 3em; margin-left: -0.5em; margin-right: -0.5em; overflow: hidden; border-top: 5px solid [properties: alt-text-color];">
+
+    <div style="width: 600px; max-width: 100%; margin: auto; padding: 1em;">
+        <div style="display: inline-block; width: 256px; max-width: 100%; vertical-align: top;">
+            <h3 style="color: [properties: bottom-nav-text-color];">Follow Us</h3>
+
+            <ul style="list-style: none; padding-left: 0em;">
+                <li style="display: block; margin: 0.5em 0em;"><img src="assets/social_1.png" alt="Social" style="display: inline-block; vertical-align: top;" /> <a href="#" style="color: [properties: bottom-nav-text-color]; text-decoration: none; margin-left: 0.5em; display: inline-block; vertical-align: top; margin-top: 0.25em;">Facebook</a></li>
+                <li style="display: block; margin: 0.5em 0em;"><img src="assets/social_2.png" alt="Social" style="display: inline-block; vertical-align: top;" /> <a href="#" style="color: [properties: bottom-nav-text-color]; text-decoration: none; margin-left: 0.5em; display: inline-block; vertical-align: top; margin-top: 0.25em;">Twitter</a></li>
+                <li style="display: block; margin: 0.5em 0em;"><img src="assets/social_3.png" alt="Social" style="display: inline-block; vertical-align: top;" /> <a href="#" style="color: [properties: bottom-nav-text-color]; text-decoration: none; margin-left: 0.5em; display: inline-block; vertical-align: top; margin-top: 0.25em;">YouTube</a></li>
+            </ul>
+        </div>
+
+        <div style="display: inline-block; width: 256px; max-width: 100%; vertical-align: top;">
+            <h3 style="color: [properties: bottom-nav-text-color];">Address</h3>
+
+            <p style="color: [properties: bottom-nav-text-color];">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.
+            </p>
+        </div>
+    </div>
+
+</section>

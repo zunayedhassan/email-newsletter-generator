@@ -1,0 +1,26 @@
+
+<section style="background: [properties: card-background]; [properties: box]; border-radius: 0.5em; margin: 1em; text-align: center; padding: 1em;">
+    <div style="display: inline-block; width: 128px; max-width: 100%; margin-right: 0.5em; text-align: center; vertical-align: top;">
+        <div style="text-align: center; margin: 1.5em 0em;">
+            <img alt="Icon" src="assets/preview_1.jpg" style="width: 100%; border-radius: 0.5em;" />
+        </div>
+    </div>
+    
+    <div style="display: inline-block; width: 350px; max-width: 100%; margin-left: 0.5em; text-align: left; vertical-align: top;">
+        <h2 style="color: [properties: header-text-color];">Article Title</h2>
+        
+        <p>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
+        </p>
+        
+        <ul>
+            <li>This is feature 1</li>
+            <li>This is feature 2</li>
+            <li>This is feature 3</li>
+        </ul>
+        
+        <div style="text-align: left; margin: 2em 0em;">
+            [properties: button]
+        </div>
+    </div>
+</section>

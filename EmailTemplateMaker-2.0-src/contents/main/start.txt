@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Email Template Test 001</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body style="background: [properties: body-background]; font-family: [properties: font-family]; color: [properties: body-text-color];">
+	<div style="border-radius: 0.5em; margin: auto; text-align: center; max-width: 600px; background: [properties: wrapper-background]; [properties: border-color]">

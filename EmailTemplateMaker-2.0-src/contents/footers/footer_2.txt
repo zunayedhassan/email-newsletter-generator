@@ -1,0 +1,15 @@
+<footer style="background: [properties: footer-bg]; min-width: 100%; margin-left: -0.5em; margin-right: -0.5em; overflow: hidden; padding: 1em;">
+                
+    <div style="width: 600px; max-width: 100%; margin: auto;">
+        <div style="width: 256px; max-width: 100%; display: inline-block; text-align: left; vertical-align: top;">
+            <span style="color: [properties: footer-text-color]; font-size: 0.8em;">Copyright &copy; <a href="#" style="text-decoration: none; color: [properties: footer-text-color];">AtelMailer</a> 2017, All rights reserved.</span>
+        </div>
+
+        <div style="width: 256px; max-width: 100%; display: inline-block; text-align: right; vertical-align: top; margin-top: 0.25em;">
+            <a href="#" style="font-size: 0.8em; color: [properties: footer-text-color]; display: inline-block; margin-right: 0.25em; text-decoration: none;">Webversion</a>
+            <span style="color: [properties: footer-text-color]; display: inline-block; vertical-align: top;">|</span>
+            <a href="#" style="font-size: 0.8em; color: [properties: footer-text-color]; display: inline-block; margin-left: 0.25em; text-decoration: none;">Unsubscribe</a>
+        </div>
+    </div>
+
+</footer>
