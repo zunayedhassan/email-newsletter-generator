@@ -1,6 +1,6 @@
 # Email Newsletter Generator
 
-Generates email templates
+Generates at least 300 unique email templates in a matter of seconds
 
 
 ![Preview](https://raw.githubusercontent.com/zunayedhassan/email-newsletter-generator/master/preview.png)
