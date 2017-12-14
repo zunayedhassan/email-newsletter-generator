@@ -14,3 +14,5 @@ https://github.com/zunayedhassan/email-newsletter-generator/raw/master/EmailTemp
 ## Sample Output
 https://github.com/zunayedhassan/email-newsletter-generator/raw/master/EmailTemplatesOutput.zip
 
+
+![Sample Output](https://github.com/zunayedhassan/email-newsletter-generator/raw/master/sample_output.png)
