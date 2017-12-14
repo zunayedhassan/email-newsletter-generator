@@ -1,6 +1,8 @@
 # Email Newsletter Generator
 
 Generates email templates
+
+
 ![Preview](https://raw.githubusercontent.com/zunayedhassan/email-newsletter-generator/master/preview.png)
 
 ## Help
